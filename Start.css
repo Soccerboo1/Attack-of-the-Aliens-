@@ -1,0 +1,39 @@
+h1 {
+    text-align: center;
+    color: greenyellow;
+
+}
+h2 {
+    color: greenyellow;
+}
+p {
+    color: greenyellow;
+}
+button {
+   padding-bottom: 10p;
+    background-color: rgb(21, 197, 88);
+    color: #110b0b;
+    font-size: 150px;
+    border-radius: 10px;
+    margin-left: 15px;
+    margin-bottom: 10px;
+    object-fit: fill;
+}
+a {
+    text-align: center;
+}
+#container {
+    text-align: center;
+}
+body {
+    background-color: #4b4453;
+}
+
+.centered-list
+{
+    display: table;
+  margin: 0 auto;    
+  text-align: left;
+  color: greenyellow;
+  font-size: 20px;
+}
