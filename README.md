@@ -5,16 +5,16 @@
 Simple Browser Game
 
 ## Project Description
-Attack of the Aliens is space invader clone where the player trys to shoot as many aliens as possible before the aliens reach the bottom of the screen. 
+Attack of the Aliens is a space invader clone where the player tries to shoot as many aliens as possible before the aliens reach the bottom of the screen. 
 
 ## Theme Interpretation
-When one thinks of space they can think if they are other life out in space and with that comes aliens and as such fightiing my aliens is my interration of space. 
+When one thinks of space, they can think of whether there is other life out in space, and with that comes aliens, and as such, fighting my aliens is my interpretation of space. 
 
 ## Intended User or Player
-Space invader fan or someone who likes acrade games. 
+Space Invader fan or someone who likes arcade games. 
 
 ## User or Player Goal
-Shoot as many aliens as possaible.
+Shoot as many aliens as possible.
 
 ## Main Features
 Start page-
@@ -22,26 +22,26 @@ intructeions
 credit
 Game page-
 moveable ship
-shooting fucntiuon 
-enuemie aliesn 
+shooting function 
+enemy aliens
 score board 
 game over pop up with a restart button.
 
 
 
 ## JavaScript Features
-The main JavaScript of the project is the game itself. Javascipt makes the game area a canvas to make the player ship and alien. It also allows for space to be cliked to spawn missles and lastly the functiuon of the restart button is becuose of javascrtipt. 
+The project's main JavaScript is the game itself. JavaScript turns the game area into a canvas for the player ship and aliens. It also allows space to be clicked to spawn missiles, and, lastly, the restart button's functionality is handled by JavaScript. 
 
 ## Responsive Design
-In my CSS code I choose to use more "%" then doing just "px" for sizes this way the page can balance out for the screen size. The start button and game area were prime examlpes of this. 
+In my CSS code, I choose to use more "%" than just "px" for sizes, so the page can scale with the screen size. The start button and game area were prime examples of this. 
 
 ## User Testing
-Summarize the testing process and major findings.
+Tester felt a need for a restart button and a better responsive design for the game area.
 
 ## Revisions
 Made a restart button
 Added a space background. 
-Made the game area more respioive ot smalelr screen. 
+Made the game area more responsive to smaller screens. 
 
 ## Technologies Used
 - HTML
@@ -55,4 +55,4 @@ https://www.magnific.com/free-photos-vectors/stars-space-background - for backgr
 https://www.youtube.com/watch?v=v74X5dtDLvg-for code and images for ship and aliens 
 
 ## Future Improvements
-If I had more time I add it where the aliens could random shoot back missels that that player would have to dodge. 
+If I had more time, I would add it where the aliens could randomly shoot back missiles that the player would have to dodge. 
