@@ -9,6 +9,11 @@
     </head>
     <body>
         <h1>Attack of the Aliens</h1>
+        <div id="over">
+        <h2 >You Died!</h2>
+         <button id="restart">restart</button>
+        </div>
+       
         <canvas id="board"></canvas>
     </body>
 </html>
