@@ -14,9 +14,9 @@ button {
     background-color: rgb(21, 197, 88);
     color: #110b0b;
     font-size: 150px;
-    border-radius: 10px;
-    margin-left: 15px;
-    margin-bottom: 10px;
+    border-radius: 10%;
+    margin-left: 1%;
+    margin-bottom: 1%;
     object-fit: fill;
 }
 a {
@@ -26,7 +26,8 @@ a {
     text-align: center;
 }
 body {
-    background-color: #4b4453;
+    
+    background-image: url("https://img.magnific.com/premium-photo/space-background-with-realistic-nebula-shining-stars-colorful-cosmos-with-stardust-milky-way-magic-color-galaxy-infinite-universe-starry-night-illustration_294865-8535.jpg?semt=ais_hybrid&w=740&q=80");
 }
 
 .centered-list
