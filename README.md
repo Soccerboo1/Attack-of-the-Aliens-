@@ -36,7 +36,7 @@ The project's main JavaScript is the game itself. JavaScript turns the game area
 In my CSS code, I choose to use more "%" than just "px" for sizes, so the page can scale with the screen size. The start button and game area were prime examples of this. 
 
 ## User Testing
-Tester felt a need for a restart button and a better responsive design for the game area.
+Testers felt a need for a restart button and a better responsive design for the game area. They seemed to understand how to play the game from the instructions.  
 
 ## Revisions
 Made a restart button
